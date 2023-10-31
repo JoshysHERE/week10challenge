@@ -11,14 +11,14 @@
 * [Questions](#questions)
 * [License](#license)
 
-  ## Installation
+## Installation
   Inquirer
-  ## How to Use This Application:
+## How to Use This Application:
   Video Link: 
-  ## Contributors
+## Contributors
   JoshysHERE Github: https://github.com/JoshysHERE
-  ## Tests
+## Tests
   N/A
-  ## Questions
+## Questions
   Need to reach out? [Click Here](mailto:JoshysHERE@gmail.com?subject=JoshysHERE'sReadme) To Send Me An Email!
-  ## License
+## License
