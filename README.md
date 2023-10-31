@@ -14,7 +14,7 @@
 ## Installation
   Inquirer & Jest
 ## How to Use This Application:
-  Video Link: 
+  Video Link: https://drive.google.com/file/d/16APfXl99K8hWYX3F_A9r1IVq7JhxflyB/view
 ## Contributors
   JoshysHERE Github: https://github.com/JoshysHERE
 ## Tests

@@ -17,7 +17,7 @@ class Svg{
         this.shapeElement = shape.render()
     }
     
-}
+};
     //Array for questions
 
     const questions = [
