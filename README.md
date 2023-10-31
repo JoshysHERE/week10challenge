@@ -12,7 +12,7 @@
 * [License](#license)
 
 ## Installation
-  Inquirer
+  Inquirer & Jest
 ## How to Use This Application:
   Video Link: 
 ## Contributors
